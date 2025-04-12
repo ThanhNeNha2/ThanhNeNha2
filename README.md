@@ -15,7 +15,7 @@
 - 🌱 My goal is **live with what i want**
 
 - 👨‍💻 All of my projects are available at https://my-cv-profile-delta.vercel.app/
-- 💬 Ask me about **ReactJS ,NextJS , NodeJS , NestJs**
+- 💬 Ask me about **ReactJS ,NextJS , NodeJS , NestJs , JavaSpring**
 
 - 📫 How to reach me **ta.coaching.v2@gmail.com**
 

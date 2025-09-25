@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Chi Thanh</h1>
-<h3 align="center">Lập trình viên đầy nhiệt huyết. Với kinh nghiệm thực hành mạnh mẽ trong phát triển Front-end sử dụng React, TypeScript , NextJs , ... . Ngoài ra, tôi đã đóng góp vào phát triển Back-end bằng cách tạo API với NodeJs , cơ bản về Spring boot . Chuyên môn kỹ thuật của tôi bao gồm triển khai môi trường sản xuất với Docker, Docker Compose . Tôi đam mê sử dụng kỹ năng của mình để đưa ra các giải pháp sáng tạo và đóng góp hiệu quả vào các nhóm cộng tác năng động.</h3>
+<h3 align="center">Passionate developer. With strong hands-on experience in Front-end development using React, TypeScript, NextJs, .... In addition, I have contributed to Back-end development by creating APIs with NodeJs, basic of Spring boot. My technical expertise includes deploying production environments with Docker, Docker Compose. I am passionate about using my skills to come up with innovative solutions and contribute effectively to dynamic collaborative teams.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhnenha2&label=Profile%20views&color=0e75b6&style=flat" alt="thanhnenha2" /> </p>
